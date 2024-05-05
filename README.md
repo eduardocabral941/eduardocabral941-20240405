@@ -14,23 +14,26 @@ Este é um projeto de backend implementado em C# que oferece um Sistema de Gest�
 
 **Configuração do Projeto:** 
 
-Abra o projeto no Visual Studio ou utilizando o CLI do .NET Core
+Abra o projeto no Visual Studio no Console Gerenciado de Pacotes executar os seguintes comandos: 
+
+ Execute o seguinte comando para compilar o projeto, isso deve instalar todas as dependências necessárias:
+```bash
+dotnet build
+```
 
  Execute o seguinte comando para remover arquivos temporários e binários:
 ```bash
 dotnet clean
 ```
- Execute o seguinte comando para compilar o projeto, isso deve instalar todas as dependências necessárias:
-```bash
-dotnet build
-```
 Execute o seguinte comando para adicionar uma nova migração ao contexto do banco de dados, isso cria uma nova migração no projeto para refletir as alterações feitas no modelo de banco de dados:
 ```bash
-dotnet ef migrations add nome_migracao
+Add-Migration nome_migracao
 ```
+
 Execute o seguinte comando para aplicar as migrações pendentes ao banco de dados, isso aplica as migrações pendentes ao banco de dados especificado na configuração.:
 ```bash
-dotnet ef database update
+Update-Database
 ```
+
 Após o procedimento poderá executar a API no topo do ambiente do Visual Studio
 
