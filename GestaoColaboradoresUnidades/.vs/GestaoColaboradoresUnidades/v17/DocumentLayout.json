@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|c:\\dev\\gestaodecolaboradores\\gestaocolaboradoresunidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\infraestrutura\\conectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:infraestrutura\\conectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\services\\implementations\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:services\\implementations\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\services\\implementations\\unidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:services\\implementations\\unidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\services\\implementations\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:services\\implementations\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\services\\interfaces\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:services\\interfaces\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\services\\interfaces\\iunidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:services\\interfaces\\iunidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\services\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:services\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\viewmodel\\colaboradorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:viewmodel\\colaboradorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\viewmodel\\unidadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:viewmodel\\unidadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\controllers\\unidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:controllers\\unidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\model\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D137CB1-B844-4449-992A-7DB7B3F17F04}|GestaoColaboradoresUnidades.csproj|solutionrelative:model\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnidadeRepository.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Implementations\\UnidadeRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UnidadeRepository.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Implementations\\UnidadeRepository.cs",
+              "RelativeToolTip": "Services\\Implementations\\UnidadeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:34:54.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Implementations\\ColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ColaboradorRepository.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Implementations\\ColaboradorRepository.cs",
+              "RelativeToolTip": "Services\\Implementations\\ColaboradorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:34:39.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConectionContext.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Infraestrutura\\ConectionContext.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\ConectionContext.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Infraestrutura\\ConectionContext.cs",
+              "RelativeToolTip": "Infraestrutura\\ConectionContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:36:48.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:18:50.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T13:15:04.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Implementations\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\UsuarioRepository.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Implementations\\UsuarioRepository.cs",
+              "RelativeToolTip": "Services\\Implementations\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:47.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Interfaces\\IColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IColaboradorRepository.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Interfaces\\IColaboradorRepository.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IColaboradorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:35:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnidadeRepository.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Interfaces\\IUnidadeRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUnidadeRepository.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Interfaces\\IUnidadeRepository.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUnidadeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:35:24.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Services\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:19.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColaboradorViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\ViewModel\\ColaboradorViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ColaboradorViewModel.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\ViewModel\\ColaboradorViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ColaboradorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:33:05.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnidadeViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\ViewModel\\UnidadeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\UnidadeViewModel.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\ViewModel\\UnidadeViewModel.cs",
+              "RelativeToolTip": "ViewModel\\UnidadeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:34:23.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\ViewModel\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\ViewModel\\UsuarioViewModel.cs",
+              "RelativeToolTip": "ViewModel\\UsuarioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:31:17.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ColaboradorController.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Controllers\\ColaboradorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ColaboradorController.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Controllers\\ColaboradorController.cs",
+              "RelativeToolTip": "Controllers\\ColaboradorController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:37:49.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnidadeController.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Controllers\\UnidadeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UnidadeController.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Controllers\\UnidadeController.cs",
+              "RelativeToolTip": "Controllers\\UnidadeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:37:25.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Model\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Model\\Colaborador.cs",
+              "ToolTip": "C:\\dev\\GestaoDeColaboradores\\GestaoColaboradoresUnidades\\Model\\Colaborador.cs",
+              "RelativeToolTip": "Model\\Colaborador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:43:08.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
